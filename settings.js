@@ -2,7 +2,7 @@
 › Create By @RIY
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
-› Edit text menu di file language › help.js
+› Edit tlext menu di file language › help.js
 */
 
 //gausah di apa² in!
